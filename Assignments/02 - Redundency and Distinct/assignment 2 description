@@ -1,0 +1,6 @@
+Write Python code to:
+
+1. Automate check redundency in "age" column
+2. Automate check distinct in "family_size" column
+
+Try to resolve it with minimum lines of code.

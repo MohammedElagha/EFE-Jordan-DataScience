@@ -1,0 +1,11 @@
+Write Python program, using Notebook, to make checking on dates values.
+
+Date format: DD/mm/YYYY.
+Example: 12/Apr/2020
+
+The possible errors are:
+1. Wrong day of month. such as: 30/Feb, 32/Jun, 31/Apr
+2. The start_date is later than end_date
+
+Describe which the problem you will resolve at first, and why.
+Try to resolve it with minimum lines of code.
