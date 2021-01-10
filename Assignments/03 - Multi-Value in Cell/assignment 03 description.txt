@@ -1,0 +1,5 @@
+As known, a cell, in table, contains only one value.
+
+In some cases, the cell contains multiple values separated by some delimiter, usually comma.
+
+Propose a solution!
