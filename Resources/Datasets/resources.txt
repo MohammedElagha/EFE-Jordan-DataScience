@@ -1,0 +1,7 @@
+https://www.kaggle.com/datasets
+
+https://data.world/
+
+https://archive.ics.uci.edu/ml/datasets.php
+
+https://mksaad.wordpress.com/2020/06/30/datasets-for-visualization/
