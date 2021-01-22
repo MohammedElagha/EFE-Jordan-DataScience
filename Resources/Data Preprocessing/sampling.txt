@@ -1,0 +1,15 @@
+https://towardsdatascience.com/probability-sampling-with-python-8c977ad78664
+
+https://www.statology.org/stratified-sampling-pandas/
+
+https://stackoverflow.com/questions/36997619/sklearn-stratified-sampling-based-on-a-column
+
+https://www.kaggle.com/flaviobossolan/stratified-sampling-python
+
+https://www.analyticsvidhya.com/blog/2019/09/data-scientists-guide-8-types-of-sampling-techniques/
+
+https://www.dataquest.io/m/283-sampling/
+
+https://towardsdatascience.com/mastering-random-sampling-in-python-ac2df84b7d3f
+
+https://towardsdatascience.com/probability-sampling-with-python-8c977ad78664

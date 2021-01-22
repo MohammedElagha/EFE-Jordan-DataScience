@@ -1,0 +1,6 @@
+https://www.geeksforgeeks.org/binning-in-data-mining/
+https://pbpython.com/pandas-qcut-cut.html
+https://www.geeksforgeeks.org/ml-binning-or-discretization/
+https://cmdlinetips.com/2019/12/how-to-discretize-bin-a-variable-in-python/
+https://subscription.packtpub.com/book/data/9781838552862/1/ch01lvl1sec09/data-discretization
+https://machinelearningmastery.com/discretization-transforms-for-machine-learning/

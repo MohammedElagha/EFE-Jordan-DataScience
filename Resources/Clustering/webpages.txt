@@ -1,0 +1,7 @@
+https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68
+
+https://developers.google.com/machine-learning/clustering/clustering-algorithms
+
+http://scikit-learn.org/stable/modules/clustering.html
+
+https://machinelearningmastery.com/clustering-algorithms-with-python/

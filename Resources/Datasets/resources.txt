@@ -5,3 +5,11 @@ https://data.world/
 https://archive.ics.uci.edu/ml/datasets.php
 
 https://mksaad.wordpress.com/2020/06/30/datasets-for-visualization/
+
+https://data-flair.training/blogs/machine-learning-datasets/
+
+https://data.world/datafiniti/womens-shoe-prices
+
+https://lionbridge.ai/datasets/24-best-ecommerce-retail-datasets-for-machine-learning/
+
+https://lionbridge.ai/datasets/the-50-best-free-datasets-for-machine-learning/

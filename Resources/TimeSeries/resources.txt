@@ -1,0 +1,15 @@
+https://towardsdatascience.com/implementing-facebook-prophet-efficiently-c241305405a3
+
+https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a
+
+https://medium.com/tokopedia-data/hacking-time-series-forecasting-like-a-pro-with-fbprophet-76f276f0a058
+
+https://github.com/facebook/prophet/issues/1320
+
+https://stackoverflow.com/questions/62568813/struggling-to-understand-the-parameters-of-the-cross-validation-function-in-fbpr
+
+https://facebook.github.io/prophet/docs/diagnostics.html
+
+https://stackoverflow.com/questions/63780573/trying-to-understand-fb-prophet-cross-validation
+
+https://stats.stackexchange.com/questions/463554/how-do-i-interpret-mean-absolute-error-mae-or-mean-absolute-percentage-error

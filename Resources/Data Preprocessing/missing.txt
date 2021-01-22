@@ -1,0 +1,5 @@
+https://www.amazon.com/Feature-Engineering-Selection-Practical-Predictive-dp-1138079227/dp/1138079227
+https://www.geeksforgeeks.org/data-preprocessing-in-data-mining/
+https://machinelearningmastery.com/handle-missing-data-python/
+https://www.geeksforgeeks.org/working-with-missing-data-in-pandas/
+https://www.journaldev.com/33492/pandas-dropna-drop-null-na-values-from-dataframe
